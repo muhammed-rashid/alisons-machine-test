@@ -18,6 +18,12 @@ seed the database 'php artisan db:seed'
 
 compile assets using laravel mix 'npm run watch' - (used to compile js and scss)
 
+create symlink to storage
+
+'php artisan storage:link'
+
+
+
 then cache configurations
 
 'php artisan config:cache'
