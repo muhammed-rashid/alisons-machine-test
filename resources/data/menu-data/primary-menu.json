@@ -1,0 +1,40 @@
+{
+    "menu": [
+      {
+        "url": "admin/dashboard",
+        "name": "Dashboard",
+        "icon": "home",
+        "slug": "admin.dashboard.*"
+      },
+  
+      {
+        "navheader": "Administration",
+        "slug": ""
+      }, 
+      {
+        "name": "Companies",
+        "icon": "users",
+        "slug": "admin.company.*",
+        "url": "admin/company"      
+      },
+      {
+        "name": "Employees",
+        "icon": "user-plus",
+        "slug": "admin.employee.*",
+        "url": "admin/employee"      
+      }
+     
+        
+     
+     
+     
+        
+     
+      
+      
+     
+      
+     
+    ]
+  }
+  
